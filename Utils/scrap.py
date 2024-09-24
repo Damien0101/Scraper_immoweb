@@ -54,14 +54,14 @@ def get_code() -> int:
     return code_num.group(0)
 
 
-#with open('data_set.csv', 'w', encoding='utf-8') as csv_file:
+# with open('data_set.csv', 'w', encoding='utf-8') as csv_file:
   #  writer = csv.writer(csv_file)
    # writer.writerow(['Locality', 'Type of property', 'Subtype of property', 'Price', 'Type of sale', 'Number of rooms', 'Living Area (m²)', 'Fully equipped kitchen', 'Furnished', 'Open fire', 'Terrace', 'Garden', 'Surface of the plot (m²)', 'Number of facades', 'Swimming pool', 'State of the building'])
         
 
-#  ***********************
-#  ** window.classified **
-#  ***********************
+# ***********************
+# ** window.classified **
+# ***********************
 
 
 def save_init_dic_building(
