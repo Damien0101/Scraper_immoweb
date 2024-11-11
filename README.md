@@ -75,7 +75,7 @@ To run the scraper app locally, follow these steps:
 1. Clone the repository:
 
     
-    ``` git clone https://github.com/Atome1212/Scraper_immoweb ```
+    ``` git clone git@github.com:Damien0101/Scraper_immoweb.git ```
     
 
 2. Navigate into the cloned repository:
